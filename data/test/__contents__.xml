@@ -1,0 +1,88 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/tei-publisher/data/test" version="1" owner="tei" group="tei" mode="755" created="2026-01-16T00:50:44.112+01:00">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="lelewel1.xml" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:51.968+01:00" modified="2026-01-16T00:50:51.968+01:00" filename="lelewel1.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="orlik_to_serafin.xml" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:52.019+01:00" modified="2026-01-16T00:50:52.019+01:00" filename="orlik_to_serafin.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="osinski.xml" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:52.027+01:00" modified="2026-01-16T00:50:52.027+01:00" filename="osinski.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="pb-mei-app.xml" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:52.032+01:00" modified="2026-01-16T00:50:52.032+01:00" filename="pb-mei-app.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="potocki.xml" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:52.038+01:00" modified="2026-01-16T00:50:52.038+01:00" filename="potocki.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="purchas_his_pilgrimages.xml" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:52.045+01:00" modified="2026-01-16T00:50:52.045+01:00" filename="purchas_his_pilgrimages.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="test.docx.xml" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:53.391+01:00" modified="2026-01-16T00:50:53.391+01:00" filename="test.docx.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="let695.xml" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:51.976+01:00" modified="2026-01-16T00:50:51.976+01:00" filename="let695.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="cortes_to_dantiscus_Mexico.xml" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:44.377+01:00" modified="2026-01-16T00:50:44.377+01:00" filename="cortes_to_dantiscus_Mexico.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="DamenConvLex-1834.xml" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:44.387+01:00" modified="2026-01-16T00:50:44.387+01:00" filename="DamenConvLex-1834.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ebbe.xml" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:47.884+01:00" modified="2026-01-16T00:50:47.884+01:00" filename="ebbe.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="euler_algebra02_1770.TEI-P5.xml" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:47.899+01:00" modified="2026-01-16T00:50:47.899+01:00" filename="euler_algebra02_1770.TEI-P5.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="F-rom.xml" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:48.595+01:00" modified="2026-01-16T00:50:48.595+01:00" filename="F-rom.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1848-01-14_PRUD_HOMMES_3.xml" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:44.114+01:00" modified="2026-01-16T00:50:44.114+01:00" filename="1848-01-14_PRUD_HOMMES_3.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="adagia.xml" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:44.133+01:00" modified="2026-01-16T00:50:44.133+01:00" filename="adagia.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="graves6.xml" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:48.711+01:00" modified="2026-01-16T00:50:48.711+01:00" filename="graves6.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="adagia_sample.xml" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:44.359+01:00" modified="2026-01-16T00:50:44.359+01:00" filename="adagia_sample.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="cortes_to_dantiscus.xml" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:44.369+01:00" modified="2026-01-16T00:50:44.369+01:00" filename="cortes_to_dantiscus.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="IDL10.xml" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:48.719+01:00" modified="2026-01-16T00:50:48.719+01:00" filename="IDL10.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="kant_rvernunft_1781.TEI-P5.xml" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:48.725+01:00" modified="2026-01-16T00:50:48.725+01:00" filename="kant_rvernunft_1781.TEI-P5.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="nature1.jpg" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:51.992+01:00" modified="2026-01-16T00:50:51.992+01:00" filename="nature1.jpg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="nature2.jpg" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:52.016+01:00" modified="2026-01-16T00:50:52.016+01:00" filename="nature2.jpg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="nature3.jpg" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:52.018+01:00" modified="2026-01-16T00:50:52.018+01:00" filename="nature3.jpg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="portrait.jpg" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:52.036+01:00" modified="2026-01-16T00:50:52.036+01:00" filename="portrait.jpg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="WG.57.11.15.a.jpg" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:53.398+01:00" modified="2026-01-16T00:50:53.398+01:00" filename="WG.57.11.15.a.jpg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="adagia_citravinumtemulentia.jpg" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:44.355+01:00" modified="2026-01-16T00:50:44.355+01:00" filename="adagia_citravinumtemulentia.jpg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="app-scoreDef.mei" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:44.367+01:00" modified="2026-01-16T00:50:44.367+01:00" filename="app-scoreDef.mei" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="WG.57.11.15.b.jpg" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:53.412+01:00" modified="2026-01-16T00:50:53.412+01:00" filename="WG.57.11.15.b.jpg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="test.docx.media" filename="test.docx.media"/>
+</collection>

@@ -1,0 +1,12 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/tei-publisher/data/annotate" version="1" owner="tei-demo" group="tei" mode="775" created="2026-01-16T00:50:43.275+01:00">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="graves20.xml" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.281+01:00" modified="2026-01-16T00:50:43.281+01:00" filename="graves20.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="leibnuetz.xml" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.288+01:00" modified="2026-01-16T00:50:43.288+01:00" filename="leibnuetz.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="test.xml" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.38+01:00" modified="2026-01-16T00:50:43.38+01:00" filename="test.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

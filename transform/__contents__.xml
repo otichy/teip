@@ -1,0 +1,900 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/tei-publisher/transform" version="1" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.547+01:00">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="master.fo.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.915+01:00" modified="2026-01-16T00:50:54.915+01:00" filename="master.fo.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="page-sequence.fo.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.949+01:00" modified="2026-01-16T00:50:54.949+01:00" filename="page-sequence.fo.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="adagia-print-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.566+01:00" modified="2026-01-16T00:50:54.566+01:00" filename="adagia-print-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="adagia-print-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.567+01:00" modified="2026-01-16T00:50:54.567+01:00" filename="adagia-print-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="adagia-print.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.569+01:00" modified="2026-01-16T00:50:54.569+01:00" filename="adagia-print.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="adagia-latex.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.564+01:00" modified="2026-01-16T00:50:54.564+01:00" filename="adagia-latex.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="adagia-web-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.571+01:00" modified="2026-01-16T00:50:54.571+01:00" filename="adagia-web-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="adagia-web-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.573+01:00" modified="2026-01-16T00:50:54.573+01:00" filename="adagia-web-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="adagia-web.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.575+01:00" modified="2026-01-16T00:50:54.575+01:00" filename="adagia-web.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="adagia.css" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.576+01:00" modified="2026-01-16T00:50:54.576+01:00" filename="adagia.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="annotations-epub-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.578+01:00" modified="2026-01-16T00:50:54.578+01:00" filename="annotations-epub-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="annotations-epub-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.58+01:00" modified="2026-01-16T00:50:54.58+01:00" filename="annotations-epub-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="annotations-epub.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.581+01:00" modified="2026-01-16T00:50:54.581+01:00" filename="annotations-epub.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="annotations-fo-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.583+01:00" modified="2026-01-16T00:50:54.583+01:00" filename="annotations-fo-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="annotations-fo-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.585+01:00" modified="2026-01-16T00:50:54.585+01:00" filename="annotations-fo-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="annotations-fo.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.587+01:00" modified="2026-01-16T00:50:54.587+01:00" filename="annotations-fo.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="annotations-latex-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.589+01:00" modified="2026-01-16T00:50:54.589+01:00" filename="annotations-latex-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="annotations-latex-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.591+01:00" modified="2026-01-16T00:50:54.591+01:00" filename="annotations-latex-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="annotations-latex.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.592+01:00" modified="2026-01-16T00:50:54.592+01:00" filename="annotations-latex.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="annotations-print-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.594+01:00" modified="2026-01-16T00:50:54.594+01:00" filename="annotations-print-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="annotations-print-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.596+01:00" modified="2026-01-16T00:50:54.596+01:00" filename="annotations-print-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="annotations-print.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.598+01:00" modified="2026-01-16T00:50:54.598+01:00" filename="annotations-print.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="annotations-web-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.6+01:00" modified="2026-01-16T00:50:54.6+01:00" filename="annotations-web-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="annotations-web-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.601+01:00" modified="2026-01-16T00:50:54.601+01:00" filename="annotations-web-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="annotations-web.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.603+01:00" modified="2026-01-16T00:50:54.603+01:00" filename="annotations-web.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="annotations.css" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.605+01:00" modified="2026-01-16T00:50:54.605+01:00" filename="annotations.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="beamer.css" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.607+01:00" modified="2026-01-16T00:50:54.607+01:00" filename="beamer.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dantiscus-epub-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.609+01:00" modified="2026-01-16T00:50:54.609+01:00" filename="dantiscus-epub-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dantiscus-epub-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.61+01:00" modified="2026-01-16T00:50:54.61+01:00" filename="dantiscus-epub-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lex-0-web-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.909+01:00" modified="2026-01-16T00:50:54.909+01:00" filename="lex-0-web-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dantiscus-epub.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.612+01:00" modified="2026-01-16T00:50:54.612+01:00" filename="dantiscus-epub.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dantiscus-fo-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.614+01:00" modified="2026-01-16T00:50:54.614+01:00" filename="dantiscus-fo-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dantiscus-fo-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.615+01:00" modified="2026-01-16T00:50:54.615+01:00" filename="dantiscus-fo-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lex-0-web.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.911+01:00" modified="2026-01-16T00:50:54.911+01:00" filename="lex-0-web.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dantiscus-fo.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.617+01:00" modified="2026-01-16T00:50:54.617+01:00" filename="dantiscus-fo.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dantiscus-latex-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.62+01:00" modified="2026-01-16T00:50:54.62+01:00" filename="dantiscus-latex-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dantiscus-latex-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.621+01:00" modified="2026-01-16T00:50:54.621+01:00" filename="dantiscus-latex-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dantiscus-latex.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.623+01:00" modified="2026-01-16T00:50:54.623+01:00" filename="dantiscus-latex.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dantiscus-print-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.625+01:00" modified="2026-01-16T00:50:54.625+01:00" filename="dantiscus-print-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dantiscus-print-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.626+01:00" modified="2026-01-16T00:50:54.626+01:00" filename="dantiscus-print-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dantiscus-print.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.628+01:00" modified="2026-01-16T00:50:54.628+01:00" filename="dantiscus-print.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dantiscus-web-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.63+01:00" modified="2026-01-16T00:50:54.63+01:00" filename="dantiscus-web-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dantiscus-web-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.631+01:00" modified="2026-01-16T00:50:54.631+01:00" filename="dantiscus-web-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dantiscus-web.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.632+01:00" modified="2026-01-16T00:50:54.632+01:00" filename="dantiscus-web.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dantiscus.css" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.635+01:00" modified="2026-01-16T00:50:54.635+01:00" filename="dantiscus.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dantiscus2-epub-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.637+01:00" modified="2026-01-16T00:50:54.637+01:00" filename="dantiscus2-epub-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dantiscus2-epub-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.638+01:00" modified="2026-01-16T00:50:54.638+01:00" filename="dantiscus2-epub-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dantiscus2-epub.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.64+01:00" modified="2026-01-16T00:50:54.64+01:00" filename="dantiscus2-epub.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dantiscus2-fo-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.641+01:00" modified="2026-01-16T00:50:54.641+01:00" filename="dantiscus2-fo-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dantiscus2-fo-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.643+01:00" modified="2026-01-16T00:50:54.643+01:00" filename="dantiscus2-fo-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dantiscus2-fo.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.645+01:00" modified="2026-01-16T00:50:54.645+01:00" filename="dantiscus2-fo.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dantiscus2-latex-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.646+01:00" modified="2026-01-16T00:50:54.646+01:00" filename="dantiscus2-latex-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dantiscus2-latex-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.648+01:00" modified="2026-01-16T00:50:54.648+01:00" filename="dantiscus2-latex-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dantiscus2-latex.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.65+01:00" modified="2026-01-16T00:50:54.65+01:00" filename="dantiscus2-latex.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dantiscus2-print-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.652+01:00" modified="2026-01-16T00:50:54.652+01:00" filename="dantiscus2-print-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dantiscus2-print-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.653+01:00" modified="2026-01-16T00:50:54.653+01:00" filename="dantiscus2-print-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dantiscus2-print.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.655+01:00" modified="2026-01-16T00:50:54.655+01:00" filename="dantiscus2-print.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dantiscus2-web-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.657+01:00" modified="2026-01-16T00:50:54.657+01:00" filename="dantiscus2-web-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dantiscus2-web-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.659+01:00" modified="2026-01-16T00:50:54.659+01:00" filename="dantiscus2-web-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dantiscus2-web.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.661+01:00" modified="2026-01-16T00:50:54.661+01:00" filename="dantiscus2-web.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dantiscus2.css" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.662+01:00" modified="2026-01-16T00:50:54.662+01:00" filename="dantiscus2.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docbook-epub-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.664+01:00" modified="2026-01-16T00:50:54.664+01:00" filename="docbook-epub-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docbook-epub-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.666+01:00" modified="2026-01-16T00:50:54.666+01:00" filename="docbook-epub-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docbook-epub.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.667+01:00" modified="2026-01-16T00:50:54.667+01:00" filename="docbook-epub.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docbook-fo-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.669+01:00" modified="2026-01-16T00:50:54.669+01:00" filename="docbook-fo-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docbook-fo-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.671+01:00" modified="2026-01-16T00:50:54.671+01:00" filename="docbook-fo-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docbook-fo.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.673+01:00" modified="2026-01-16T00:50:54.673+01:00" filename="docbook-fo.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docbook-latex-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.675+01:00" modified="2026-01-16T00:50:54.675+01:00" filename="docbook-latex-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docbook-latex-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.676+01:00" modified="2026-01-16T00:50:54.676+01:00" filename="docbook-latex-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docbook-latex.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.678+01:00" modified="2026-01-16T00:50:54.678+01:00" filename="docbook-latex.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docbook-print-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.681+01:00" modified="2026-01-16T00:50:54.681+01:00" filename="docbook-print-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docbook-print-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.683+01:00" modified="2026-01-16T00:50:54.683+01:00" filename="docbook-print-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docbook-print.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.685+01:00" modified="2026-01-16T00:50:54.685+01:00" filename="docbook-print.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docbook-web-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.687+01:00" modified="2026-01-16T00:50:54.687+01:00" filename="docbook-web-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docbook-web-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.689+01:00" modified="2026-01-16T00:50:54.689+01:00" filename="docbook-web-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docbook-web.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.692+01:00" modified="2026-01-16T00:50:54.692+01:00" filename="docbook-web.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docbook.css" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.694+01:00" modified="2026-01-16T00:50:54.694+01:00" filename="docbook.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docx-output-fo.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.709+01:00" modified="2026-01-16T00:50:54.709+01:00" filename="docx-output-fo.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docbook.fo.css" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.696+01:00" modified="2026-01-16T00:50:54.696+01:00" filename="docbook.fo.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docx-output-epub-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.698+01:00" modified="2026-01-16T00:50:54.698+01:00" filename="docx-output-epub-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docx-output-epub-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.7+01:00" modified="2026-01-16T00:50:54.7+01:00" filename="docx-output-epub-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docx-output-epub.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.702+01:00" modified="2026-01-16T00:50:54.702+01:00" filename="docx-output-epub.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docx-output-fo-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.705+01:00" modified="2026-01-16T00:50:54.705+01:00" filename="docx-output-fo-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docx-output-fo-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.707+01:00" modified="2026-01-16T00:50:54.707+01:00" filename="docx-output-fo-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docx-output-latex-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.712+01:00" modified="2026-01-16T00:50:54.712+01:00" filename="docx-output-latex-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docx-output-latex-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.714+01:00" modified="2026-01-16T00:50:54.714+01:00" filename="docx-output-latex-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docx-output-latex.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.716+01:00" modified="2026-01-16T00:50:54.716+01:00" filename="docx-output-latex.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docx-output-print-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.719+01:00" modified="2026-01-16T00:50:54.719+01:00" filename="docx-output-print-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docx-output-print-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.721+01:00" modified="2026-01-16T00:50:54.721+01:00" filename="docx-output-print-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docx-output-print.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.724+01:00" modified="2026-01-16T00:50:54.724+01:00" filename="docx-output-print.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docx-output-web-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.726+01:00" modified="2026-01-16T00:50:54.726+01:00" filename="docx-output-web-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docx-output-web-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.728+01:00" modified="2026-01-16T00:50:54.728+01:00" filename="docx-output-web-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docx-output-web.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.731+01:00" modified="2026-01-16T00:50:54.731+01:00" filename="docx-output-web.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docx-output.css" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.733+01:00" modified="2026-01-16T00:50:54.733+01:00" filename="docx-output.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docx-tei-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.735+01:00" modified="2026-01-16T00:50:54.735+01:00" filename="docx-tei-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docx-tei-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.737+01:00" modified="2026-01-16T00:50:54.737+01:00" filename="docx-tei-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docx-tei.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.74+01:00" modified="2026-01-16T00:50:54.74+01:00" filename="docx-tei.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docx.css" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.742+01:00" modified="2026-01-16T00:50:54.742+01:00" filename="docx.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dta-epub-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.744+01:00" modified="2026-01-16T00:50:54.744+01:00" filename="dta-epub-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dta-epub-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.746+01:00" modified="2026-01-16T00:50:54.746+01:00" filename="dta-epub-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dta-epub.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.748+01:00" modified="2026-01-16T00:50:54.748+01:00" filename="dta-epub.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dta-fo-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.75+01:00" modified="2026-01-16T00:50:54.75+01:00" filename="dta-fo-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dta-fo-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.752+01:00" modified="2026-01-16T00:50:54.752+01:00" filename="dta-fo-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dta-fo.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.755+01:00" modified="2026-01-16T00:50:54.755+01:00" filename="dta-fo.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dta-latex-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.757+01:00" modified="2026-01-16T00:50:54.757+01:00" filename="dta-latex-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dta-latex-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.759+01:00" modified="2026-01-16T00:50:54.759+01:00" filename="dta-latex-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dta-latex.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.762+01:00" modified="2026-01-16T00:50:54.762+01:00" filename="dta-latex.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dta-print-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.764+01:00" modified="2026-01-16T00:50:54.764+01:00" filename="dta-print-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dta-print-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.766+01:00" modified="2026-01-16T00:50:54.766+01:00" filename="dta-print-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dta-print.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.768+01:00" modified="2026-01-16T00:50:54.768+01:00" filename="dta-print.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dta-web-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.771+01:00" modified="2026-01-16T00:50:54.771+01:00" filename="dta-web-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dta-web-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.773+01:00" modified="2026-01-16T00:50:54.773+01:00" filename="dta-web-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dta-web.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.775+01:00" modified="2026-01-16T00:50:54.775+01:00" filename="dta-web.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dta.css" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.778+01:00" modified="2026-01-16T00:50:54.778+01:00" filename="dta.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dta.fo.css" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.78+01:00" modified="2026-01-16T00:50:54.78+01:00" filename="dta.fo.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ebbe-epub-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.782+01:00" modified="2026-01-16T00:50:54.782+01:00" filename="ebbe-epub-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ebbe-epub-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.784+01:00" modified="2026-01-16T00:50:54.784+01:00" filename="ebbe-epub-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ebbe-epub.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.786+01:00" modified="2026-01-16T00:50:54.786+01:00" filename="ebbe-epub.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ebbe-fo-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.789+01:00" modified="2026-01-16T00:50:54.789+01:00" filename="ebbe-fo-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ebbe-fo-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.792+01:00" modified="2026-01-16T00:50:54.792+01:00" filename="ebbe-fo-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jats-print-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.857+01:00" modified="2026-01-16T00:50:54.857+01:00" filename="jats-print-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jats-print.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.859+01:00" modified="2026-01-16T00:50:54.859+01:00" filename="jats-print.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jats-web-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.862+01:00" modified="2026-01-16T00:50:54.862+01:00" filename="jats-web-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jats-web-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.864+01:00" modified="2026-01-16T00:50:54.864+01:00" filename="jats-web-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jats-web.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.866+01:00" modified="2026-01-16T00:50:54.866+01:00" filename="jats-web.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jats.css" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.868+01:00" modified="2026-01-16T00:50:54.868+01:00" filename="jats.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lelewel-epub-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.87+01:00" modified="2026-01-16T00:50:54.87+01:00" filename="lelewel-epub-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lelewel-epub-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.873+01:00" modified="2026-01-16T00:50:54.873+01:00" filename="lelewel-epub-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lelewel-epub.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.875+01:00" modified="2026-01-16T00:50:54.875+01:00" filename="lelewel-epub.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lelewel-fo-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.878+01:00" modified="2026-01-16T00:50:54.878+01:00" filename="lelewel-fo-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lelewel-fo-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.88+01:00" modified="2026-01-16T00:50:54.88+01:00" filename="lelewel-fo-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lelewel-fo.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.882+01:00" modified="2026-01-16T00:50:54.882+01:00" filename="lelewel-fo.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="graves-print.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.838+01:00" modified="2026-01-16T00:50:54.838+01:00" filename="graves-print.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="graves-web-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.84+01:00" modified="2026-01-16T00:50:54.84+01:00" filename="graves-web-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="graves-web-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.842+01:00" modified="2026-01-16T00:50:54.842+01:00" filename="graves-web-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="graves-web.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.845+01:00" modified="2026-01-16T00:50:54.845+01:00" filename="graves-web.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="graves.css" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.847+01:00" modified="2026-01-16T00:50:54.847+01:00" filename="graves.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jats-epub-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.849+01:00" modified="2026-01-16T00:50:54.849+01:00" filename="jats-epub-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jats-epub-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.851+01:00" modified="2026-01-16T00:50:54.851+01:00" filename="jats-epub-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jats-epub.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.853+01:00" modified="2026-01-16T00:50:54.853+01:00" filename="jats-epub.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jats-print-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.855+01:00" modified="2026-01-16T00:50:54.855+01:00" filename="jats-print-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ebbe-fo.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.793+01:00" modified="2026-01-16T00:50:54.793+01:00" filename="ebbe-fo.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ebbe-latex-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.795+01:00" modified="2026-01-16T00:50:54.795+01:00" filename="ebbe-latex-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ebbe-latex-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.797+01:00" modified="2026-01-16T00:50:54.797+01:00" filename="ebbe-latex-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ebbe-latex.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.799+01:00" modified="2026-01-16T00:50:54.799+01:00" filename="ebbe-latex.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ebbe-print-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.801+01:00" modified="2026-01-16T00:50:54.801+01:00" filename="ebbe-print-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ebbe-print-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.803+01:00" modified="2026-01-16T00:50:54.803+01:00" filename="ebbe-print-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ebbe-print.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.804+01:00" modified="2026-01-16T00:50:54.804+01:00" filename="ebbe-print.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ebbe-web-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.807+01:00" modified="2026-01-16T00:50:54.807+01:00" filename="ebbe-web-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ebbe-web-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.808+01:00" modified="2026-01-16T00:50:54.808+01:00" filename="ebbe-web-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ebbe-web.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.81+01:00" modified="2026-01-16T00:50:54.81+01:00" filename="ebbe-web.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ebbe.css" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.812+01:00" modified="2026-01-16T00:50:54.812+01:00" filename="ebbe.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="graves-epub-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.814+01:00" modified="2026-01-16T00:50:54.814+01:00" filename="graves-epub-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="graves-epub-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.816+01:00" modified="2026-01-16T00:50:54.816+01:00" filename="graves-epub-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="graves-epub.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.818+01:00" modified="2026-01-16T00:50:54.818+01:00" filename="graves-epub.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="graves-fo-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.821+01:00" modified="2026-01-16T00:50:54.821+01:00" filename="graves-fo-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="graves-fo-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.823+01:00" modified="2026-01-16T00:50:54.823+01:00" filename="graves-fo-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="graves-fo.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.826+01:00" modified="2026-01-16T00:50:54.826+01:00" filename="graves-fo.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="graves-latex-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.828+01:00" modified="2026-01-16T00:50:54.828+01:00" filename="graves-latex-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="adagia-epub-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.55+01:00" modified="2026-01-16T00:50:54.55+01:00" filename="adagia-epub-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="graves-latex-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.83+01:00" modified="2026-01-16T00:50:54.83+01:00" filename="graves-latex-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="adagia-epub-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.551+01:00" modified="2026-01-16T00:50:54.551+01:00" filename="adagia-epub-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="graves-latex.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.832+01:00" modified="2026-01-16T00:50:54.832+01:00" filename="graves-latex.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="adagia-epub.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.553+01:00" modified="2026-01-16T00:50:54.553+01:00" filename="adagia-epub.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="graves-print-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.835+01:00" modified="2026-01-16T00:50:54.835+01:00" filename="graves-print-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="adagia-fo-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.555+01:00" modified="2026-01-16T00:50:54.555+01:00" filename="adagia-fo-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="graves-print-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.836+01:00" modified="2026-01-16T00:50:54.836+01:00" filename="graves-print-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="adagia-fo-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.557+01:00" modified="2026-01-16T00:50:54.557+01:00" filename="adagia-fo-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="potocki-print-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.97+01:00" modified="2026-01-16T00:50:54.97+01:00" filename="potocki-print-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="adagia-fo.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.559+01:00" modified="2026-01-16T00:50:54.559+01:00" filename="adagia-fo.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lex-0.css" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.913+01:00" modified="2026-01-16T00:50:54.913+01:00" filename="lex-0.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="adagia-latex-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.56+01:00" modified="2026-01-16T00:50:54.56+01:00" filename="adagia-latex-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="adagia-latex-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.562+01:00" modified="2026-01-16T00:50:54.562+01:00" filename="adagia-latex-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="osinski-epub-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.917+01:00" modified="2026-01-16T00:50:54.917+01:00" filename="osinski-epub-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="osinski-epub-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.919+01:00" modified="2026-01-16T00:50:54.919+01:00" filename="osinski-epub-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="osinski-epub.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.921+01:00" modified="2026-01-16T00:50:54.921+01:00" filename="osinski-epub.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="osinski-fo-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.924+01:00" modified="2026-01-16T00:50:54.924+01:00" filename="osinski-fo-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="osinski-fo-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.925+01:00" modified="2026-01-16T00:50:54.925+01:00" filename="osinski-fo-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="osinski-fo.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.927+01:00" modified="2026-01-16T00:50:54.927+01:00" filename="osinski-fo.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="osinski-latex-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.93+01:00" modified="2026-01-16T00:50:54.93+01:00" filename="osinski-latex-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="osinski-latex-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.931+01:00" modified="2026-01-16T00:50:54.931+01:00" filename="osinski-latex-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="osinski-latex.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.934+01:00" modified="2026-01-16T00:50:54.934+01:00" filename="osinski-latex.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="osinski-print-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.936+01:00" modified="2026-01-16T00:50:54.936+01:00" filename="osinski-print-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="osinski-print-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.938+01:00" modified="2026-01-16T00:50:54.938+01:00" filename="osinski-print-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="osinski-print.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.939+01:00" modified="2026-01-16T00:50:54.939+01:00" filename="osinski-print.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="osinski-web-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.942+01:00" modified="2026-01-16T00:50:54.942+01:00" filename="osinski-web-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="osinski-web-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.944+01:00" modified="2026-01-16T00:50:54.944+01:00" filename="osinski-web-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="osinski-web.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.945+01:00" modified="2026-01-16T00:50:54.945+01:00" filename="osinski-web.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="osinski.css" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.947+01:00" modified="2026-01-16T00:50:54.947+01:00" filename="osinski.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="potocki-epub-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.951+01:00" modified="2026-01-16T00:50:54.951+01:00" filename="potocki-epub-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="potocki-epub-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.952+01:00" modified="2026-01-16T00:50:54.952+01:00" filename="potocki-epub-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="potocki-epub.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.954+01:00" modified="2026-01-16T00:50:54.954+01:00" filename="potocki-epub.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="potocki-fo-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.957+01:00" modified="2026-01-16T00:50:54.957+01:00" filename="potocki-fo-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="potocki-fo-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.958+01:00" modified="2026-01-16T00:50:54.958+01:00" filename="potocki-fo-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="potocki-fo.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.959+01:00" modified="2026-01-16T00:50:54.959+01:00" filename="potocki-fo.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="potocki-latex-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.962+01:00" modified="2026-01-16T00:50:54.962+01:00" filename="potocki-latex-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="potocki-latex-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.965+01:00" modified="2026-01-16T00:50:54.965+01:00" filename="potocki-latex-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="potocki-latex.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.968+01:00" modified="2026-01-16T00:50:54.968+01:00" filename="potocki-latex.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="potocki-web.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.98+01:00" modified="2026-01-16T00:50:54.98+01:00" filename="potocki-web.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="potocki.css" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.982+01:00" modified="2026-01-16T00:50:54.982+01:00" filename="potocki.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="serafin-epub-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.984+01:00" modified="2026-01-16T00:50:54.984+01:00" filename="serafin-epub-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="serafin-epub-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.985+01:00" modified="2026-01-16T00:50:54.985+01:00" filename="serafin-epub-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="serafin-epub.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.987+01:00" modified="2026-01-16T00:50:54.987+01:00" filename="serafin-epub.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="serafin-fo-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.988+01:00" modified="2026-01-16T00:50:54.988+01:00" filename="serafin-fo-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="serafin-fo-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.99+01:00" modified="2026-01-16T00:50:54.99+01:00" filename="serafin-fo-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="potocki-print-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.972+01:00" modified="2026-01-16T00:50:54.972+01:00" filename="potocki-print-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="potocki-print.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.974+01:00" modified="2026-01-16T00:50:54.974+01:00" filename="potocki-print.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="potocki-web-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.976+01:00" modified="2026-01-16T00:50:54.976+01:00" filename="potocki-web-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="potocki-web-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.978+01:00" modified="2026-01-16T00:50:54.978+01:00" filename="potocki-web-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="serafin-fo.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.993+01:00" modified="2026-01-16T00:50:54.993+01:00" filename="serafin-fo.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="serafin-latex-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.995+01:00" modified="2026-01-16T00:50:54.995+01:00" filename="serafin-latex-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="serafin-latex-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.997+01:00" modified="2026-01-16T00:50:54.997+01:00" filename="serafin-latex-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="serafin-latex.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.998+01:00" modified="2026-01-16T00:50:54.998+01:00" filename="serafin-latex.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="serafin-print-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:55.001+01:00" modified="2026-01-16T00:50:55.001+01:00" filename="serafin-print-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="serafin-print-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.002+01:00" modified="2026-01-16T00:50:55.002+01:00" filename="serafin-print-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="serafin-print.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.004+01:00" modified="2026-01-16T00:50:55.004+01:00" filename="serafin-print.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="serafin-web-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:55.006+01:00" modified="2026-01-16T00:50:55.006+01:00" filename="serafin-web-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="serafin-web-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.008+01:00" modified="2026-01-16T00:50:55.008+01:00" filename="serafin-web-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="serafin-web.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.01+01:00" modified="2026-01-16T00:50:55.01+01:00" filename="serafin-web.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="serafin.css" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.012+01:00" modified="2026-01-16T00:50:55.012+01:00" filename="serafin.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="shakespeare-epub-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:55.013+01:00" modified="2026-01-16T00:50:55.013+01:00" filename="shakespeare-epub-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="shakespeare-epub-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.015+01:00" modified="2026-01-16T00:50:55.015+01:00" filename="shakespeare-epub-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="shakespeare-epub.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.017+01:00" modified="2026-01-16T00:50:55.017+01:00" filename="shakespeare-epub.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="shakespeare-fo-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:55.019+01:00" modified="2026-01-16T00:50:55.019+01:00" filename="shakespeare-fo-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="shakespeare-fo-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.021+01:00" modified="2026-01-16T00:50:55.021+01:00" filename="shakespeare-fo-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="shakespeare-fo.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.022+01:00" modified="2026-01-16T00:50:55.022+01:00" filename="shakespeare-fo.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="shakespeare-latex-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:55.024+01:00" modified="2026-01-16T00:50:55.024+01:00" filename="shakespeare-latex-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="shakespeare-latex-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.025+01:00" modified="2026-01-16T00:50:55.025+01:00" filename="shakespeare-latex-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="shakespeare-latex.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.027+01:00" modified="2026-01-16T00:50:55.027+01:00" filename="shakespeare-latex.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="shakespeare-print-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:55.029+01:00" modified="2026-01-16T00:50:55.029+01:00" filename="shakespeare-print-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="shakespeare-print-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.03+01:00" modified="2026-01-16T00:50:55.03+01:00" filename="shakespeare-print-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="shakespeare-print.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.032+01:00" modified="2026-01-16T00:50:55.032+01:00" filename="shakespeare-print.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="shakespeare-web-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:55.034+01:00" modified="2026-01-16T00:50:55.034+01:00" filename="shakespeare-web-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="shakespeare-web-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.036+01:00" modified="2026-01-16T00:50:55.036+01:00" filename="shakespeare-web-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="shakespeare-web.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.038+01:00" modified="2026-01-16T00:50:55.038+01:00" filename="shakespeare-web.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="shakespeare.css" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.039+01:00" modified="2026-01-16T00:50:55.039+01:00" filename="shakespeare.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="styles.fo.css" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.041+01:00" modified="2026-01-16T00:50:55.041+01:00" filename="styles.fo.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="teipublisher-epub-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:55.044+01:00" modified="2026-01-16T00:50:55.044+01:00" filename="teipublisher-epub-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="teipublisher-epub-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.045+01:00" modified="2026-01-16T00:50:55.045+01:00" filename="teipublisher-epub-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="teipublisher-epub.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.047+01:00" modified="2026-01-16T00:50:55.047+01:00" filename="teipublisher-epub.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="teipublisher-fo-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:55.049+01:00" modified="2026-01-16T00:50:55.049+01:00" filename="teipublisher-fo-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="teipublisher-fo-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.051+01:00" modified="2026-01-16T00:50:55.051+01:00" filename="teipublisher-fo-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="teipublisher-fo.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.053+01:00" modified="2026-01-16T00:50:55.053+01:00" filename="teipublisher-fo.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="teipublisher-latex-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:55.054+01:00" modified="2026-01-16T00:50:55.054+01:00" filename="teipublisher-latex-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="teipublisher-latex-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.056+01:00" modified="2026-01-16T00:50:55.056+01:00" filename="teipublisher-latex-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="teipublisher-latex.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.058+01:00" modified="2026-01-16T00:50:55.058+01:00" filename="teipublisher-latex.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="teipublisher-print-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:55.06+01:00" modified="2026-01-16T00:50:55.06+01:00" filename="teipublisher-print-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="teipublisher-print-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.062+01:00" modified="2026-01-16T00:50:55.062+01:00" filename="teipublisher-print-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="teipublisher-print.css" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.063+01:00" modified="2026-01-16T00:50:55.063+01:00" filename="teipublisher-print.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="teipublisher-print.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.065+01:00" modified="2026-01-16T00:50:55.065+01:00" filename="teipublisher-print.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="teipublisher-web-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:55.067+01:00" modified="2026-01-16T00:50:55.067+01:00" filename="teipublisher-web-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="teipublisher-web-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.068+01:00" modified="2026-01-16T00:50:55.068+01:00" filename="teipublisher-web-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="teipublisher-web.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.07+01:00" modified="2026-01-16T00:50:55.07+01:00" filename="teipublisher-web.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="teipublisher.css" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.072+01:00" modified="2026-01-16T00:50:55.072+01:00" filename="teipublisher.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="teipublisher.fo.css" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.073+01:00" modified="2026-01-16T00:50:55.073+01:00" filename="teipublisher.fo.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="teisimple.css" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.075+01:00" modified="2026-01-16T00:50:55.075+01:00" filename="teisimple.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="time-us-epub-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:55.077+01:00" modified="2026-01-16T00:50:55.077+01:00" filename="time-us-epub-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="time-us-epub-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.078+01:00" modified="2026-01-16T00:50:55.078+01:00" filename="time-us-epub-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="time-us-epub.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.08+01:00" modified="2026-01-16T00:50:55.08+01:00" filename="time-us-epub.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="time-us-fo-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:55.082+01:00" modified="2026-01-16T00:50:55.082+01:00" filename="time-us-fo-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="time-us-fo-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.083+01:00" modified="2026-01-16T00:50:55.083+01:00" filename="time-us-fo-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="time-us-fo.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.085+01:00" modified="2026-01-16T00:50:55.085+01:00" filename="time-us-fo.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="time-us-latex-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:55.086+01:00" modified="2026-01-16T00:50:55.086+01:00" filename="time-us-latex-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="time-us-latex-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.088+01:00" modified="2026-01-16T00:50:55.088+01:00" filename="time-us-latex-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="time-us-latex.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.09+01:00" modified="2026-01-16T00:50:55.09+01:00" filename="time-us-latex.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="time-us-print-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:55.093+01:00" modified="2026-01-16T00:50:55.093+01:00" filename="time-us-print-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="time-us-print-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.095+01:00" modified="2026-01-16T00:50:55.095+01:00" filename="time-us-print-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="time-us-print.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.096+01:00" modified="2026-01-16T00:50:55.096+01:00" filename="time-us-print.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="time-us-web-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:55.099+01:00" modified="2026-01-16T00:50:55.099+01:00" filename="time-us-web-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="time-us-web-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.101+01:00" modified="2026-01-16T00:50:55.101+01:00" filename="time-us-web-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="time-us-web.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.103+01:00" modified="2026-01-16T00:50:55.103+01:00" filename="time-us-web.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="time-us.css" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.105+01:00" modified="2026-01-16T00:50:55.105+01:00" filename="time-us.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="vangogh-epub-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:55.107+01:00" modified="2026-01-16T00:50:55.107+01:00" filename="vangogh-epub-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="vangogh-epub-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.108+01:00" modified="2026-01-16T00:50:55.108+01:00" filename="vangogh-epub-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="vangogh-epub.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.11+01:00" modified="2026-01-16T00:50:55.11+01:00" filename="vangogh-epub.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="vangogh-fo-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:55.112+01:00" modified="2026-01-16T00:50:55.112+01:00" filename="vangogh-fo-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="vangogh-fo-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.114+01:00" modified="2026-01-16T00:50:55.114+01:00" filename="vangogh-fo-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="vangogh-fo.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.116+01:00" modified="2026-01-16T00:50:55.116+01:00" filename="vangogh-fo.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="vangogh-latex-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:55.118+01:00" modified="2026-01-16T00:50:55.118+01:00" filename="vangogh-latex-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="vangogh-latex-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.119+01:00" modified="2026-01-16T00:50:55.119+01:00" filename="vangogh-latex-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="vangogh-latex.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.121+01:00" modified="2026-01-16T00:50:55.121+01:00" filename="vangogh-latex.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="vangogh-print-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:55.123+01:00" modified="2026-01-16T00:50:55.123+01:00" filename="vangogh-print-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="vangogh-print-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.125+01:00" modified="2026-01-16T00:50:55.125+01:00" filename="vangogh-print-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="vangogh-print.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.126+01:00" modified="2026-01-16T00:50:55.126+01:00" filename="vangogh-print.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="vangogh-web-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:55.128+01:00" modified="2026-01-16T00:50:55.128+01:00" filename="vangogh-web-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="vangogh-web-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.13+01:00" modified="2026-01-16T00:50:55.13+01:00" filename="vangogh-web-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="vangogh-web.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.131+01:00" modified="2026-01-16T00:50:55.131+01:00" filename="vangogh-web.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="vangogh.css" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:55.133+01:00" modified="2026-01-16T00:50:55.133+01:00" filename="vangogh.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lelewel-latex-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.885+01:00" modified="2026-01-16T00:50:54.885+01:00" filename="lelewel-latex-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lelewel-latex-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.888+01:00" modified="2026-01-16T00:50:54.888+01:00" filename="lelewel-latex-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lelewel-latex.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.89+01:00" modified="2026-01-16T00:50:54.89+01:00" filename="lelewel-latex.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lelewel-print-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.892+01:00" modified="2026-01-16T00:50:54.892+01:00" filename="lelewel-print-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lelewel-print-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.894+01:00" modified="2026-01-16T00:50:54.894+01:00" filename="lelewel-print-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lelewel-print.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.896+01:00" modified="2026-01-16T00:50:54.896+01:00" filename="lelewel-print.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lelewel-web-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.899+01:00" modified="2026-01-16T00:50:54.899+01:00" filename="lelewel-web-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lelewel-web-module.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.901+01:00" modified="2026-01-16T00:50:54.901+01:00" filename="lelewel-web-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lelewel-web.xql" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.902+01:00" modified="2026-01-16T00:50:54.902+01:00" filename="lelewel-web.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lelewel.css" skip="no" owner="tei" group="tei" mode="664" created="2026-01-16T00:50:54.905+01:00" modified="2026-01-16T00:50:54.905+01:00" filename="lelewel.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lex-0-web-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:54.907+01:00" modified="2026-01-16T00:50:54.907+01:00" filename="lex-0-web-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

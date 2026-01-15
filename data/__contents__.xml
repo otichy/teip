@@ -1,0 +1,50 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/tei-publisher/data" version="1" owner="tei" group="tei" mode="755" created="2026-01-16T00:50:42.992+01:00">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="collection.html" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.001+01:00" modified="2026-01-16T00:50:43.001+01:00" filename="collection.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="taxonomy.xml" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.017+01:00" modified="2026-01-16T00:50:43.017+01:00" filename="taxonomy.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="about.md" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:42.994+01:00" modified="2026-01-16T00:50:42.994+01:00" filename="about.md" mimetype="text/markdown">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="books.jpg" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:42.999+01:00" modified="2026-01-16T00:50:42.999+01:00" filename="books.jpg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="demo.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.003+01:00" modified="2026-01-16T00:50:43.003+01:00" filename="demo.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="documentation.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.005+01:00" modified="2026-01-16T00:50:43.005+01:00" filename="documentation.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="files.jpg" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.006+01:00" modified="2026-01-16T00:50:43.006+01:00" filename="files.jpg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="highlight.jpg" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.009+01:00" modified="2026-01-16T00:50:43.009+01:00" filename="highlight.jpg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="keyboard.jpg" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.011+01:00" modified="2026-01-16T00:50:43.011+01:00" filename="keyboard.jpg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="magazines.jpg" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.013+01:00" modified="2026-01-16T00:50:43.013+01:00" filename="magazines.jpg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="playground.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.015+01:00" modified="2026-01-16T00:50:43.015+01:00" filename="playground.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="tireswing.jpg" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.272+01:00" modified="2026-01-16T00:50:43.272+01:00" filename="tireswing.jpg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="annotations.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:42.996+01:00" modified="2026-01-16T00:50:42.996+01:00" filename="annotations.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="annotate" filename="annotate"/>
+    <subcollection name="doc" filename="doc"/>
+    <subcollection name="jats" filename="jats"/>
+    <subcollection name="registers" filename="registers"/>
+    <subcollection name="test" filename="test"/>
+    <subcollection name="playground" filename="playground"/>
+    <subcollection name="dts" filename="dts"/>
+    <subcollection name="temp" filename="temp"/>
+</collection>

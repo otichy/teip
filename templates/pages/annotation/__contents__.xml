@@ -1,0 +1,12 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/tei-publisher/templates/pages/annotation" version="1" owner="tei" group="tei" mode="755" created="2026-01-16T00:50:54.489+01:00">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="organization-editor.html" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:54.491+01:00" modified="2026-01-16T00:50:54.491+01:00" filename="organization-editor.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="person-editor.html" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:54.494+01:00" modified="2026-01-16T00:50:54.494+01:00" filename="person-editor.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="place-editor.html" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:54.497+01:00" modified="2026-01-16T00:50:54.497+01:00" filename="place-editor.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

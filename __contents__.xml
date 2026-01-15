@@ -1,0 +1,55 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/tei-publisher" version="1" owner="tei" group="tei" mode="755" created="2026-01-16T00:50:42.962+01:00">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="repo.xml" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:55.136+01:00" modified="2026-01-16T00:50:55.136+01:00" filename="repo.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="expath-pkg.xml" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:42.973+01:00" modified="2026-01-16T00:50:42.973+01:00" filename="expath-pkg.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="setup.xml" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:42.992+01:00" modified="2026-01-16T00:50:42.992+01:00" filename="setup.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="collection.xconf" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:42.967+01:00" modified="2026-01-16T00:50:42.967+01:00" filename="collection.xconf" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="cypress.config.js" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:42.971+01:00" modified="2026-01-16T00:50:42.971+01:00" filename="cypress.config.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="icon.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:42.974+01:00" modified="2026-01-16T00:50:42.974+01:00" filename="icon.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="index.xql" skip="no" owner="tei" group="tei" mode="755" created="2026-01-16T00:50:42.976+01:00" modified="2026-01-16T00:50:42.976+01:00" filename="index.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="LICENSE" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:42.978+01:00" modified="2026-01-16T00:50:42.978+01:00" filename="LICENSE" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="LICENSE.txt" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:42.98+01:00" modified="2026-01-16T00:50:42.98+01:00" filename="LICENSE.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="local.build.properties.example" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:42.983+01:00" modified="2026-01-16T00:50:42.983+01:00" filename="local.build.properties.example" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="post-install.xql" skip="no" owner="tei" group="tei" mode="755" created="2026-01-16T00:50:42.985+01:00" modified="2026-01-16T00:50:42.985+01:00" filename="post-install.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pre-install.xql" skip="no" owner="tei" group="tei" mode="755" created="2026-01-16T00:50:42.987+01:00" modified="2026-01-16T00:50:42.987+01:00" filename="pre-install.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="README.md" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:42.989+01:00" modified="2026-01-16T00:50:42.989+01:00" filename="README.md" mimetype="text/markdown">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name=".dockerignore" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:42.964+01:00" modified="2026-01-16T00:50:42.964+01:00" filename=".dockerignore" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="controller.xql" skip="no" owner="tei" group="tei" mode="755" created="2026-01-16T00:50:42.969+01:00" modified="2026-01-16T00:50:42.969+01:00" filename="controller.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="data" filename="data"/>
+    <subcollection name="modules" filename="modules"/>
+    <subcollection name="odd" filename="odd"/>
+    <subcollection name="resources" filename="resources"/>
+    <subcollection name="templates" filename="templates"/>
+    <subcollection name="test" filename="test"/>
+    <subcollection name="transform" filename="transform"/>
+</collection>

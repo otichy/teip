@@ -1,0 +1,219 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/tei-publisher/data/doc" version="1" owner="tei" group="tei" mode="755" created="2026-01-16T00:50:43.385+01:00">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="documentation.xml" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.531+01:00" modified="2026-01-16T00:50:43.531+01:00" filename="documentation.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ann-airtable-detail.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.387+01:00" modified="2026-01-16T00:50:43.387+01:00" filename="ann-airtable-detail.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ann-airtable-info.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.39+01:00" modified="2026-01-16T00:50:43.39+01:00" filename="ann-airtable-info.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ann-configure.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.393+01:00" modified="2026-01-16T00:50:43.393+01:00" filename="ann-configure.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ann-corpus.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.397+01:00" modified="2026-01-16T00:50:43.397+01:00" filename="ann-corpus.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ann-correction.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.404+01:00" modified="2026-01-16T00:50:43.404+01:00" filename="ann-correction.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ann-details.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.407+01:00" modified="2026-01-16T00:50:43.407+01:00" filename="ann-details.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ann-entity-selected.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.412+01:00" modified="2026-01-16T00:50:43.412+01:00" filename="ann-entity-selected.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ann-inconsistency.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.416+01:00" modified="2026-01-16T00:50:43.416+01:00" filename="ann-inconsistency.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ann-init.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.42+01:00" modified="2026-01-16T00:50:43.42+01:00" filename="ann-init.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ann-nested.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.425+01:00" modified="2026-01-16T00:50:43.425+01:00" filename="ann-nested.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ann-occur.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.429+01:00" modified="2026-01-16T00:50:43.429+01:00" filename="ann-occur.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ann-overview-v9.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.431+01:00" modified="2026-01-16T00:50:43.431+01:00" filename="ann-overview-v9.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ann-overview.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.437+01:00" modified="2026-01-16T00:50:43.437+01:00" filename="ann-overview.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ann-person.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.443+01:00" modified="2026-01-16T00:50:43.443+01:00" filename="ann-person.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ann-person2.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.447+01:00" modified="2026-01-16T00:50:43.447+01:00" filename="ann-person2.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ann-playground.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.454+01:00" modified="2026-01-16T00:50:43.454+01:00" filename="ann-playground.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ann-preview.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.46+01:00" modified="2026-01-16T00:50:43.46+01:00" filename="ann-preview.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ann-review.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.463+01:00" modified="2026-01-16T00:50:43.463+01:00" filename="ann-review.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ann-toolbar.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.467+01:00" modified="2026-01-16T00:50:43.467+01:00" filename="ann-toolbar.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ann-types.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.469+01:00" modified="2026-01-16T00:50:43.469+01:00" filename="ann-types.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="api-docs-demo.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.472+01:00" modified="2026-01-16T00:50:43.472+01:00" filename="api-docs-demo.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="api-docs.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.475+01:00" modified="2026-01-16T00:50:43.475+01:00" filename="api-docs.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="api-spec.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.48+01:00" modified="2026-01-16T00:50:43.48+01:00" filename="api-spec.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="BuildODD.gif" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.487+01:00" modified="2026-01-16T00:50:43.487+01:00" filename="BuildODD.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="component-extension.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.502+01:00" modified="2026-01-16T00:50:43.502+01:00" filename="component-extension.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="CreateApp.gif" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.506+01:00" modified="2026-01-16T00:50:43.506+01:00" filename="CreateApp.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="CreateODD.gif" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.513+01:00" modified="2026-01-16T00:50:43.513+01:00" filename="CreateODD.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="data-collection.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.521+01:00" modified="2026-01-16T00:50:43.521+01:00" filename="data-collection.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="data-subcollection-landing.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.523+01:00" modified="2026-01-16T00:50:43.523+01:00" filename="data-subcollection-landing.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="data-subcollections.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.526+01:00" modified="2026-01-16T00:50:43.526+01:00" filename="data-subcollections.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="demo-collection-overview.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.528+01:00" modified="2026-01-16T00:50:43.528+01:00" filename="demo-collection-overview.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="editor-screen1.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.801+01:00" modified="2026-01-16T00:50:43.801+01:00" filename="editor-screen1.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="editor-screen2.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.804+01:00" modified="2026-01-16T00:50:43.804+01:00" filename="editor-screen2.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="editor-screen3.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.806+01:00" modified="2026-01-16T00:50:43.806+01:00" filename="editor-screen3.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="editor-screen4.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.808+01:00" modified="2026-01-16T00:50:43.808+01:00" filename="editor-screen4.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="editor-screen5.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.81+01:00" modified="2026-01-16T00:50:43.81+01:00" filename="editor-screen5.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="editor-screen6.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.812+01:00" modified="2026-01-16T00:50:43.812+01:00" filename="editor-screen6.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="eXistDashboard.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.815+01:00" modified="2026-01-16T00:50:43.815+01:00" filename="eXistDashboard.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="eXistInitialConfig.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.819+01:00" modified="2026-01-16T00:50:43.819+01:00" filename="eXistInitialConfig.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="eXistSplash.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.822+01:00" modified="2026-01-16T00:50:43.822+01:00" filename="eXistSplash.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="eXistTaskbarIcon.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.824+01:00" modified="2026-01-16T00:50:43.824+01:00" filename="eXistTaskbarIcon.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="facets.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.828+01:00" modified="2026-01-16T00:50:43.828+01:00" filename="facets.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="foo-odd.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.832+01:00" modified="2026-01-16T00:50:43.832+01:00" filename="foo-odd.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="foo-single-view.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.836+01:00" modified="2026-01-16T00:50:43.836+01:00" filename="foo-single-view.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="i18n-attribute.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.839+01:00" modified="2026-01-16T00:50:43.839+01:00" filename="i18n-attribute.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="i18n-json-structure.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.841+01:00" modified="2026-01-16T00:50:43.841+01:00" filename="i18n-json-structure.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="litelem-template.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.844+01:00" modified="2026-01-16T00:50:43.844+01:00" filename="litelem-template.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="litelem-vscode-snippet.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.847+01:00" modified="2026-01-16T00:50:43.847+01:00" filename="litelem-vscode-snippet.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="new-vocabulary-odd.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.851+01:00" modified="2026-01-16T00:50:43.851+01:00" filename="new-vocabulary-odd.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="nine-3095449_640.jpg" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.854+01:00" modified="2026-01-16T00:50:43.854+01:00" filename="nine-3095449_640.jpg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="odd-page-template-settings.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.856+01:00" modified="2026-01-16T00:50:43.856+01:00" filename="odd-page-template-settings.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pb-clipboard-action.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.858+01:00" modified="2026-01-16T00:50:43.858+01:00" filename="pb-clipboard-action.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="prince-screenshot.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.861+01:00" modified="2026-01-16T00:50:43.861+01:00" filename="prince-screenshot.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="rahtzrationale.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.863+01:00" modified="2026-01-16T00:50:43.863+01:00" filename="rahtzrationale.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="register-change.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.867+01:00" modified="2026-01-16T00:50:43.867+01:00" filename="register-change.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="register-config.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.87+01:00" modified="2026-01-16T00:50:43.87+01:00" filename="register-config.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="register-edit.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.873+01:00" modified="2026-01-16T00:50:43.873+01:00" filename="register-edit.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="register-jinn-xml-editor.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.879+01:00" modified="2026-01-16T00:50:43.879+01:00" filename="register-jinn-xml-editor.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="register-forms.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.877+01:00" modified="2026-01-16T00:50:43.877+01:00" filename="register-forms.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="register-structure.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.882+01:00" modified="2026-01-16T00:50:43.882+01:00" filename="register-structure.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="toolbar-ner.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.907+01:00" modified="2026-01-16T00:50:43.907+01:00" filename="toolbar-ner.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="upload.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.91+01:00" modified="2026-01-16T00:50:43.91+01:00" filename="upload.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="wikipedia.gif" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.912+01:00" modified="2026-01-16T00:50:43.912+01:00" filename="wikipedia.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="wordStructure.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.917+01:00" modified="2026-01-16T00:50:43.917+01:00" filename="wordStructure.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="register-templates.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.885+01:00" modified="2026-01-16T00:50:43.885+01:00" filename="register-templates.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="register-xml.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.887+01:00" modified="2026-01-16T00:50:43.887+01:00" filename="register-xml.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="start-page-collections.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.891+01:00" modified="2026-01-16T00:50:43.891+01:00" filename="start-page-collections.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Sync.gif" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.895+01:00" modified="2026-01-16T00:50:43.895+01:00" filename="Sync.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="TEISimpleBeamer.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.901+01:00" modified="2026-01-16T00:50:43.901+01:00" filename="TEISimpleBeamer.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="TEISimpleDia.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.903+01:00" modified="2026-01-16T00:50:43.903+01:00" filename="TEISimpleDia.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="test.docx" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.905+01:00" modified="2026-01-16T00:50:43.905+01:00" filename="test.docx" mimetype="application/vnd.openxmlformats-officedocument.wordprocessingml.document">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

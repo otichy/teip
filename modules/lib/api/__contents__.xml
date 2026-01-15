@@ -1,0 +1,39 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/tei-publisher/modules/lib/api" version="1" owner="tei" group="tei" mode="755" created="2026-01-16T00:50:53.526+01:00">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="search.xql" skip="no" owner="tei" group="tei" mode="755" created="2026-01-16T00:50:53.553+01:00" modified="2026-01-16T00:50:53.553+01:00" filename="search.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="annotations.xql" skip="no" owner="tei" group="tei" mode="755" created="2026-01-16T00:50:53.528+01:00" modified="2026-01-16T00:50:53.528+01:00" filename="annotations.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="caching.xql" skip="no" owner="tei" group="tei" mode="755" created="2026-01-16T00:50:53.53+01:00" modified="2026-01-16T00:50:53.53+01:00" filename="caching.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="collection.xql" skip="no" owner="tei" group="tei" mode="755" created="2026-01-16T00:50:53.533+01:00" modified="2026-01-16T00:50:53.533+01:00" filename="collection.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="document.xql" skip="no" owner="tei" group="tei" mode="755" created="2026-01-16T00:50:53.537+01:00" modified="2026-01-16T00:50:53.537+01:00" filename="document.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dts.xql" skip="no" owner="tei" group="tei" mode="755" created="2026-01-16T00:50:53.539+01:00" modified="2026-01-16T00:50:53.539+01:00" filename="dts.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="generate.xql" skip="no" owner="tei" group="tei" mode="755" created="2026-01-16T00:50:53.54+01:00" modified="2026-01-16T00:50:53.54+01:00" filename="generate.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="iiif.xql" skip="no" owner="tei" group="tei" mode="755" created="2026-01-16T00:50:53.543+01:00" modified="2026-01-16T00:50:53.543+01:00" filename="iiif.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="info.xql" skip="no" owner="tei" group="tei" mode="755" created="2026-01-16T00:50:53.545+01:00" modified="2026-01-16T00:50:53.545+01:00" filename="info.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="nlp.xql" skip="no" owner="tei" group="tei" mode="755" created="2026-01-16T00:50:53.546+01:00" modified="2026-01-16T00:50:53.546+01:00" filename="nlp.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="odd.xql" skip="no" owner="tei" group="tei" mode="755" created="2026-01-16T00:50:53.55+01:00" modified="2026-01-16T00:50:53.55+01:00" filename="odd.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="view.xql" skip="no" owner="tei" group="tei" mode="755" created="2026-01-16T00:50:53.555+01:00" modified="2026-01-16T00:50:53.555+01:00" filename="view.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

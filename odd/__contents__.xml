@@ -1,0 +1,111 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/tei-publisher/odd" version="1" owner="tei" group="tei" mode="775" created="2026-01-16T00:50:53.557+01:00">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="potocki.odd" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:53.645+01:00" modified="2026-01-16T00:50:53.645+01:00" filename="potocki.odd" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="vangogh.odd" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:53.802+01:00" modified="2026-01-16T00:50:53.802+01:00" filename="vangogh.odd" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="adagia.odd" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:53.559+01:00" modified="2026-01-16T00:50:53.559+01:00" filename="adagia.odd" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="annotations.odd" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:53.563+01:00" modified="2026-01-16T00:50:53.563+01:00" filename="annotations.odd" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="configuration.xml" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:53.568+01:00" modified="2026-01-16T00:50:53.568+01:00" filename="configuration.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="dantiscus.odd" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:53.57+01:00" modified="2026-01-16T00:50:53.57+01:00" filename="dantiscus.odd" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="serafin.odd" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:53.653+01:00" modified="2026-01-16T00:50:53.653+01:00" filename="serafin.odd" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="dantiscus2.odd" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:53.574+01:00" modified="2026-01-16T00:50:53.574+01:00" filename="dantiscus2.odd" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="shakespeare.odd" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:53.66+01:00" modified="2026-01-16T00:50:53.66+01:00" filename="shakespeare.odd" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="teipublisher.odd" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:53.664+01:00" modified="2026-01-16T00:50:53.664+01:00" filename="teipublisher.odd" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="docbook.odd" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:53.586+01:00" modified="2026-01-16T00:50:53.586+01:00" filename="docbook.odd" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="docx-output.odd" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:53.596+01:00" modified="2026-01-16T00:50:53.596+01:00" filename="docx-output.odd" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="docx.odd" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:53.6+01:00" modified="2026-01-16T00:50:53.6+01:00" filename="docx.odd" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="teipublisher_odds.odd" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:53.673+01:00" modified="2026-01-16T00:50:53.673+01:00" filename="teipublisher_odds.odd" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="dta.odd" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:53.607+01:00" modified="2026-01-16T00:50:53.607+01:00" filename="dta.odd" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="teipublisher_odds.xsd" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:53.678+01:00" modified="2026-01-16T00:50:53.678+01:00" filename="teipublisher_odds.xsd" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ebbe.odd" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:53.61+01:00" modified="2026-01-16T00:50:53.61+01:00" filename="ebbe.odd" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="graves.odd" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:53.616+01:00" modified="2026-01-16T00:50:53.616+01:00" filename="graves.odd" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="template.odd.xml" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:53.793+01:00" modified="2026-01-16T00:50:53.793+01:00" filename="template.odd.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="jats.odd" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:53.622+01:00" modified="2026-01-16T00:50:53.622+01:00" filename="jats.odd" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="time-us.odd" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:53.794+01:00" modified="2026-01-16T00:50:53.794+01:00" filename="time-us.odd" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="lelewel.odd" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:53.629+01:00" modified="2026-01-16T00:50:53.629+01:00" filename="lelewel.odd" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="lex-0.odd" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:53.632+01:00" modified="2026-01-16T00:50:53.632+01:00" filename="lex-0.odd" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="osinski.odd" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:53.639+01:00" modified="2026-01-16T00:50:53.639+01:00" filename="osinski.odd" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="serafin.css" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:53.65+01:00" modified="2026-01-16T00:50:53.65+01:00" filename="serafin.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xml.tmp" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:53.806+01:00" modified="2026-01-16T00:50:53.806+01:00" filename="xml.tmp" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="shakespeare.css" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:53.657+01:00" modified="2026-01-16T00:50:53.657+01:00" filename="shakespeare.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dcr.tmp" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:53.58+01:00" modified="2026-01-16T00:50:53.58+01:00" filename="dcr.tmp" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docbook.css" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:53.583+01:00" modified="2026-01-16T00:50:53.583+01:00" filename="docbook.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docx-output.css" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:53.594+01:00" modified="2026-01-16T00:50:53.594+01:00" filename="docx-output.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dta.css" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:53.605+01:00" modified="2026-01-16T00:50:53.605+01:00" filename="dta.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="teix.tmp" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:53.788+01:00" modified="2026-01-16T00:50:53.788+01:00" filename="teix.tmp" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lelewel.css" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:53.627+01:00" modified="2026-01-16T00:50:53.627+01:00" filename="lelewel.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ns1.tmp" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:53.636+01:00" modified="2026-01-16T00:50:53.636+01:00" filename="ns1.tmp" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="vangogh.css" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:53.8+01:00" modified="2026-01-16T00:50:53.8+01:00" filename="vangogh.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="potocki.css" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:53.643+01:00" modified="2026-01-16T00:50:53.643+01:00" filename="potocki.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

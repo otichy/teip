@@ -1,0 +1,12 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/tei-publisher/test/cypress/support" version="1" owner="tei" group="tei" mode="755" created="2026-01-16T00:50:54.541+01:00">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="commands.js" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:54.543+01:00" modified="2026-01-16T00:50:54.543+01:00" filename="commands.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="e2e.js" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:54.545+01:00" modified="2026-01-16T00:50:54.545+01:00" filename="e2e.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="zip.js" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:54.546+01:00" modified="2026-01-16T00:50:54.546+01:00" filename="zip.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

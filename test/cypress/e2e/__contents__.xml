@@ -1,0 +1,48 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/tei-publisher/test/cypress/e2e" version="1" owner="tei" group="tei" mode="755" created="2026-01-16T00:50:54.503+01:00">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="cover.cy.js" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:54.508+01:00" modified="2026-01-16T00:50:54.508+01:00" filename="cover.cy.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="documents.cy.js" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:54.509+01:00" modified="2026-01-16T00:50:54.509+01:00" filename="documents.cy.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dts.cy.js" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:54.511+01:00" modified="2026-01-16T00:50:54.511+01:00" filename="dts.cy.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="footnotes.cy.js" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:54.513+01:00" modified="2026-01-16T00:50:54.513+01:00" filename="footnotes.cy.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="generate.cy.js" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:54.514+01:00" modified="2026-01-16T00:50:54.514+01:00" filename="generate.cy.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="images-collection.cy.js" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:54.516+01:00" modified="2026-01-16T00:50:54.516+01:00" filename="images-collection.cy.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="info.cy.js" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:54.518+01:00" modified="2026-01-16T00:50:54.518+01:00" filename="info.cy.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="odd.cy.js" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:54.52+01:00" modified="2026-01-16T00:50:54.52+01:00" filename="odd.cy.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="search.cy.js" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:54.522+01:00" modified="2026-01-16T00:50:54.522+01:00" filename="search.cy.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="templates.cy.js" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:54.524+01:00" modified="2026-01-16T00:50:54.524+01:00" filename="templates.cy.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="title-notes.cy.js" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:54.526+01:00" modified="2026-01-16T00:50:54.526+01:00" filename="title-notes.cy.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="title.cy.js" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:54.528+01:00" modified="2026-01-16T00:50:54.528+01:00" filename="title.cy.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="view.cy.js" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:54.529+01:00" modified="2026-01-16T00:50:54.529+01:00" filename="view.cy.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="collection.cy.js" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:54.506+01:00" modified="2026-01-16T00:50:54.506+01:00" filename="collection.cy.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="annotations.cy.js" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:54.504+01:00" modified="2026-01-16T00:50:54.504+01:00" filename="annotations.cy.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

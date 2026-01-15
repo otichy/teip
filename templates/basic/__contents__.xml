@@ -1,0 +1,18 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/tei-publisher/templates/basic" version="1" owner="tei" group="tei" mode="755" created="2026-01-16T00:50:54.355+01:00">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="controller.xql" skip="no" owner="tei" group="tei" mode="755" created="2026-01-16T00:50:54.357+01:00" modified="2026-01-16T00:50:54.357+01:00" filename="controller.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="gitignore.tmpl" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:54.359+01:00" modified="2026-01-16T00:50:54.359+01:00" filename="gitignore.tmpl" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="post-install.xql" skip="no" owner="tei" group="tei" mode="755" created="2026-01-16T00:50:54.361+01:00" modified="2026-01-16T00:50:54.361+01:00" filename="post-install.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pre-install.xql" skip="no" owner="tei" group="tei" mode="755" created="2026-01-16T00:50:54.362+01:00" modified="2026-01-16T00:50:54.362+01:00" filename="pre-install.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="modules" filename="modules"/>
+    <subcollection name="resources" filename="resources"/>
+    <subcollection name="templates" filename="templates"/>
+</collection>

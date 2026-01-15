@@ -1,0 +1,9 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/tei-publisher/templates/basic/resources/css" version="1" owner="tei" group="tei" mode="755" created="2026-01-16T00:50:54.374+01:00">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="epub.css" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:54.376+01:00" modified="2026-01-16T00:50:54.376+01:00" filename="epub.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="theme.css" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:54.377+01:00" modified="2026-01-16T00:50:54.377+01:00" filename="theme.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

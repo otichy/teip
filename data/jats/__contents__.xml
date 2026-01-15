@@ -1,0 +1,15 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/tei-publisher/data/jats" version="1" owner="tei-demo" group="tei" mode="775" created="2026-01-16T00:50:43.919+01:00">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="hertziana-digial-editions.xml" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:44.062+01:00" modified="2026-01-16T00:50:44.062+01:00" filename="hertziana-digial-editions.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="e-editiones-article.xml" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:43.922+01:00" modified="2026-01-16T00:50:43.922+01:00" filename="e-editiones-article.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="guidelines_mobile.jpg" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:44.061+01:00" modified="2026-01-16T00:50:44.061+01:00" filename="guidelines_mobile.jpg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="tei-publisher-docs.png" skip="no" owner="tei" group="tei" mode="644" created="2026-01-16T00:50:44.069+01:00" modified="2026-01-16T00:50:44.069+01:00" filename="tei-publisher-docs.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>
